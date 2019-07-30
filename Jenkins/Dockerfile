@@ -1,0 +1,2 @@
+# jenkins
+FROM jenkins:latest
